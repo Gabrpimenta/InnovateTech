@@ -39,13 +39,11 @@ A mobile application for managing student data built with React Native, Redux, A
 
 4.  Start the development server:
 
-    `npm start`
+    `npm run android`
 
     or
 
-    `yarn start`
-
-5.  Open the Expo app on your mobile device and scan the QR code to view the app.
+    `yarn android`
 
 ### Usage
 
