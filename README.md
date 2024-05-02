@@ -17,55 +17,31 @@ A mobile application for managing student data built with React Native, Redux, A
 - Node.js
 - npm or yarn
 - Expo CLI
-- MMKV (for persistent storage)
+- MMKV (MMKV is used for persistent storage in this project. To use MMKV, ensure that you are using Expo's bare workflow, as MMKV requires native setup.)
 
 ### Installation
 
 1.  Clone the repository:
 
-    bash
-
-    Copy code
-
     `git clone https://github.com/Gabrpimenta/InnovateTech`
 
 2.  Navigate to the project directory:
-
-    bash
-
-    Copy code
 
     `cd innovatetech`
 
 3.  Install dependencies:
 
-    bash
-
-    Copy code
-
     `npm install`
 
     or
-
-    bash
-
-    Copy code
 
     `yarn install`
 
 4.  Start the development server:
 
-    bash
-
-    Copy code
-
     `npm start`
 
     or
-
-    bash
-
-    Copy code
 
     `yarn start`
 
